@@ -8,12 +8,6 @@
     'cart/checkout'=>'cart/checkout',
     'cart/ajax'=>'cart/ajax',
     'cart'=>'cart/index',
-//
-//    'postav/nazira/ajax' => 'adminNazira/ajax',
-//    'postav/nazira/change' => 'adminNazira/change',
-//    'postav/nazira/logout' => 'adminNazira/logout',
-//    'postav/nazira/view' => 'adminNazira/view',
-//    'nazira' => 'adminNazira/index',
     
     'postav/view/([0-9]+)' => 'adminPostav/view/$1',
     'postav/ajax' => 'adminPostav/ajax',
